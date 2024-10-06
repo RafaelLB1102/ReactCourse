@@ -2,4 +2,4 @@
 - **pnpm** : gestor de paquetes, mejor que npm 👍.
 
 ### Primera Clase
-again
+again, 2
