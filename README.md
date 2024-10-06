@@ -14,5 +14,3 @@ La idea del proyecto es familiarizarse con React.js y su sintaxis, esto por medi
 - CSS
 - JavaScript
 - Git y GitHub
-
-
